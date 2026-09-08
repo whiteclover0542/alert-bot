@@ -23,7 +23,7 @@
 > 아래 이미지는 `images/` 폴더에 추가해서 채워 넣을 것
 
 ![n8n 워크플로우 전체](images/n8n-workflow.png)
-![alert_sender.py 실행 성공](images/run-success.png)
+![alert_sender.py 실행 성공](images/run-success.png?v=2)
 ![슬랙 알림](images/slack.png)
 ![디스코드 알림 (embed 카드)](images/discord.png)
 ![텔레그램 알림](images/telegram.png)
